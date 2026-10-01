@@ -1,0 +1,2 @@
+# Beat Band app-ads.txt
+# Unity LevelPlay satırları buraya eklenecek (LevelPlay panel > Settings > app-ads.txt).
