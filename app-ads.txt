@@ -1,2 +1,2 @@
-# Beat Band app-ads.txt
-# Unity LevelPlay satırları buraya eklenecek (LevelPlay panel > Settings > app-ads.txt).
+# Beat Band (Embe Game Studio) app-ads.txt
+google.com, pub-1097102792839990, DIRECT, f08c47fec0942fa0
